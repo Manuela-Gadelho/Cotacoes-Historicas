@@ -1,4 +1,4 @@
-# Cotacoes-Historicas
+# Cotações Históricas - BM&F
 
 Um programa desenvolvido em linguagem C# utilizando o ambiente do VisualStudio. Esse programa realiza a atualização de cotações históricas da B3 (Bolsa de Valores do Brasil) diariamente. Vou explicar suas principais funcionalidades de forma sucinta:
 
@@ -23,3 +23,5 @@ O método DeletaArquivos() deleta arquivos temporários.
 O método ConsultaData() consulta a data mais recente das cotações históricas já gravadas no banco de dados.
 
 Essas são as principais funcionalidades do programa, que realiza o download de arquivos de cotações históricas da B3, extrai os dados desses arquivos e os insere em uma tabela de um banco de dados SQL Server.
+
+
